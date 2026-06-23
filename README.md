@@ -1,4 +1,4 @@
-# 🚀 LeavePro — Leave Management System
+#  LeavePro — Leave Management System
 
 <p align="center">
   <strong>A Full-Stack Leave Management System built with Spring Boot, React, JWT Authentication, and MySQL</strong>
@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 LeavePro is a modern Leave Management System that automates the entire leave workflow within an organization.
 
@@ -24,9 +24,9 @@ The application implements Role-Based Access Control (RBAC), JWT Authentication,
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👨‍💼 Employee
+###  Employee
 
 * Apply for leave requests
 * View leave history
@@ -34,14 +34,14 @@ The application implements Role-Based Access Control (RBAC), JWT Authentication,
 * Cancel pending or approved leaves
 * Real-time leave status updates
 
-### 👔 Manager
+###  Manager
 
 * View team leave requests
 * Approve or reject applications
 * Add comments during approval/rejection
 * Track pending requests
 
-### 🛡️ Administrator
+###  Administrator
 
 * Create, edit and delete users
 * Assign managers to employees
@@ -51,7 +51,7 @@ The application implements Role-Based Access Control (RBAC), JWT Authentication,
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
 ┌─────────────────┐
